@@ -291,7 +291,7 @@ const Offer = () =>
 <section style={{ background: 'var(--cream)' }}>
     <div className="container">
       <div className="grid-2" style={{ alignItems: 'start' }}>
-        <div style={{ position: 'sticky', top: 100 }}>
+        <div>
           <div className="eyebrow" style={{ marginBottom: 24 }}>Apresentação da oferta</div>
           <h2 className="h-1" style={{ margin: '0 0 24px' }}>
             Intermediação completa, do <em className="it">campo ao embarque.</em>

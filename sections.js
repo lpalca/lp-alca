@@ -472,12 +472,7 @@ const Offer = () => /*#__PURE__*/React.createElement("section", {
   style: {
     alignItems: 'start'
   }
-}, /*#__PURE__*/React.createElement("div", {
-  style: {
-    position: 'sticky',
-    top: 100
-  }
-}, /*#__PURE__*/React.createElement("div", {
+}, /*#__PURE__*/React.createElement("div", null, /*#__PURE__*/React.createElement("div", {
   className: "eyebrow",
   style: {
     marginBottom: 24
