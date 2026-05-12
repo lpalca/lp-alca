@@ -429,7 +429,7 @@ const FAQSection = () => {
     <section id="faq" style={{ background: 'var(--cream)' }}>
       <div className="container-narrow">
         <div style={{ display: 'grid', gridTemplateColumns: '1fr 2fr', gap: 80, alignItems: 'start' }} className="faq-grid">
-          <div style={{ position: 'sticky', top: 100 }}>
+          <div>
             <div className="eyebrow" style={{ marginBottom: 24 }}>FAQ</div>
             <h2 className="h-2" style={{ margin: 0 }}>
               Perguntas que costumam <em className="it">aparecer.</em>
