@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "babel tweaks-panel.jsx dotted-surface.jsx sections.jsx app.jsx --presets @babel/preset-react --out-dir .",
+    "compile": "babel tweaks-panel.jsx dotted-surface.jsx sections.jsx app.jsx --presets @babel/preset-react --out-dir .",
     "dev": "serve . --listen 3000"
   },
   "keywords": [],
